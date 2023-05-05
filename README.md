@@ -1,6 +1,6 @@
 # Movie-recommendation
 
-This app identify name of emoji which is passed in input. This app is made for identify **name of travel and place emoji**.
+This is a movie recommendation app according to genere you are interested in.
 
 ---
 
@@ -20,4 +20,10 @@ This app identify name of emoji which is passed in input. This app is made for i
 2.CSS
 
 3.Java Script
+
+---
+
+Contact :
+
+* [LinkedIN](https://www.linkedin.com/in/priyallohar/)
 
