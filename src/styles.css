@@ -89,11 +89,15 @@ body {
   border-radius: 10px;
   font-weight: bold;
   letter-spacing: 1px;
-  border: 3px solid balck;
+  border: 2px solid white;
   cursor: pointer;
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.links button:hover{
+  border: 2px solid black;
 }
 
 .links button a {
