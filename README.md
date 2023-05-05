@@ -1,6 +1,6 @@
 # Movie-recommendation
 
-This is a movie recommendation app according to genere you are interested in.
+This is a movie recommendation app according to genre you are interested in.
 
 ---
 
